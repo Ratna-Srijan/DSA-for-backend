@@ -37,8 +37,7 @@ public class TwoSum {
                     System.out.println("Target not found.");
             }
         }
-
-
+        
     }
     
 }

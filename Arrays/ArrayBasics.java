@@ -67,5 +67,6 @@ public class ArrayBasics{
        // size of array -
        System.out.println("The size of your array is: " +list.size());
 
+       in.close();
     }
 }
